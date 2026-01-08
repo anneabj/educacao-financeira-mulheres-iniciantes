@@ -39,10 +39,13 @@ Essas ideias ajudam a entender como programas manipulam dados e tornam o aprendi
 ## 🚀 Público-Alvo
 - Estudantes de TI iniciantes  
 - Colegas do Bootcamp DIO  
-- Qualquer pessoa que queira aprender Estrutura de Dados de forma leve e prática  
+- Qualquer pessoa que queira aprender Estrutura de Dados de forma leve e prática
 
 ---
 
-## 💡 Conclusão
+## 📎 Acesse o projeto no NotebookLM
+Para estudar, gerar slides, testes e cartões de estudo, acesse:  
+👉 [NotebookLM - Estrutura de Dados](https://notebooklm.google.com/notebook/0a53172c-c19a-4529-9e75-4cad123d7029)
+
 Este repositório é um ponto de partida para quem deseja **dominar os fundamentos de Estrutura de Dados**.  
 Explore os materiais, gere seus próprios recursos no NotebookLM e divirta-se aprendendo! 🎉
