@@ -132,3 +132,9 @@ Estas fontes oferecem um guia abrangente sobre **educação financeira e investi
 O uso da IA (NotebookLM + Deep Research) foi essencial para:  
 - Organizar e estruturar o conhecimento.  
 - Ampliar o vocabulário técnico em finanças.
+
+---
+
+## 📎 Acesse o projeto no NotebookLM
+Para estudar, gerar slides, testes e cartões de estudo, acesse:  
+👉 [NotebookLM - Educação Financeira para Mulheres Iniciantes](https://notebooklm.google.com/notebook/0a53172c-c19a-4529-9e75-4cad123d7029)
